@@ -52,24 +52,24 @@ Image 1:
 Gradient method
 
 ![ezgif com-gif-maker](input/101085.jpg)
-![ezgif com-gif-maker](output/Image_1_Gradient.jpg)
+![ezgif com-gif-maker](output/Image_1_Gradient.png)
 
 ![ezgif com-gif-maker](input/3096.jpg)
-![ezgif com-gif-maker](output/Image_21_Gradient.jpg)
+![ezgif com-gif-maker](output/Image_21_Gradient.png)
 
 ![ezgif com-gif-maker](input/86000.jpg)
-![ezgif com-gif-maker](output/Image_45_Gradient.jpg)
+![ezgif com-gif-maker](output/Image_45_Gradient.png)
 
 Orientation method:
 
 ![ezgif com-gif-maker](input/101085.jpg)
-![ezgif com-gif-maker](output/Image_1_Orientation.jpg)
+![ezgif com-gif-maker](output/Image_1_Orientation.png)
 
 ![ezgif com-gif-maker](input/3096.jpg)
-![ezgif com-gif-maker](output/Image_21_Gradient.jpg)
+![ezgif com-gif-maker](output/Image_21_Gradient.png)
 
 ![ezgif com-gif-maker](input/86000.jpg)
-![ezgif com-gif-maker](output/Image_45_Gradient.jpg) 
+![ezgif com-gif-maker](output/Image_45_Gradient.png) 
 
 
 ## Build
